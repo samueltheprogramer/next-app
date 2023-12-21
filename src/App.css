@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Set the height of the body to the full viewport height */
+  margin: 0; /* Remove default margin */
+
+  padding: 0; /* Remove default body padding */
+  background-image: url('./assets/images-new.jpeg'); /* Replace 'your-image.jpg' with the path to your image */
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Do not repeat the background image */
+}
