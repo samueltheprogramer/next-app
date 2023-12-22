@@ -81,7 +81,7 @@ function Login() {
             <Typography variant="subtitle1" sx={{ marginLeft: 8 }}>
               New to page?
               <span>
-                <Link to="/signin">Sign in</Link>
+                <Link to="/next-app/signin">Sign in</Link>
               </span>
             </Typography>
           </Card>

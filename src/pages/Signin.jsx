@@ -87,7 +87,7 @@ export default function Signin() {
 
         </Card>
         <Card elevation={1} ou>
-          <Typography variant='subtitle1' sx={{marginLeft:7}}>have account? <span><Link to="/">Login</Link> </span> </Typography>
+          <Typography variant='subtitle1' sx={{marginLeft:7}}>have account? <span><Link to="/next-app/">Login</Link> </span> </Typography>
         </Card>
         </Stack>
         </form>
